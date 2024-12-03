@@ -1,0 +1,14 @@
+{
+  "name": "MyTasks",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "João Gustavo Soares Bispo <jgbispo20@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
